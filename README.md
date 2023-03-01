@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alqubtan, a Software developer and Content creator from Iraq. I am currently working as a full time developer at one of the best tech company in Iraq.
 - 👀 I’m interested in software development, engineering and content creation on youtube platform. also i like to talk about system design and architecture on linked in and twitter.
-- 🌱 I’m currently Microservices and new Data structures and algorithms
+- 🌱 I’m currently learning Microservices and new Data structures and algorithms
 - 💞️ I’m looking to collaborate on useful projects wether it's big or not.
 - 📫 How to reach me ...
 - https://www.youtube.com/c/GazwanAlqubtan/
